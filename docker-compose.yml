@@ -2,7 +2,7 @@ version: '2'
 
 services:
     srpago-oxxo:
-        container_name: srpago-oxxo
+        container_name: netcore2
         restart: always
         image: danteay/ubuntu-netcore:latest
         working_dir: /app
